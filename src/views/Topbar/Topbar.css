@@ -1,0 +1,13 @@
+.topbar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: #2f2e2e;
+    width: 100%;
+    padding: 24px;
+    box-shadow: 0 0 8px -1px #000;
+    box-sizing: border-box;
+    height: 70px;
+    overflow: hidden;
+    color: #f8f8f8;
+  }

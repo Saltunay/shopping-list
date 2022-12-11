@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+div#root {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background: #eee;
+  padding: 96px 64px 32px 64px;
+}
+
+input {
+  border: thin solid #bdc3c7;
+  padding: 8px;
+  border-radius: 4px;
+  background: #fff;
+  min-width: 259px;
+  outline: none;
+  margin: 0 8px 8px 0;
+}
+
+select {
+  border: thin solid #bdc3c7;
+  background: #fff;
+  padding: 8px;
+  border-radius: 4px;
+  min-width: 259px;
+  outline: none;
+  margin: 0 8px 8px 0;
+}

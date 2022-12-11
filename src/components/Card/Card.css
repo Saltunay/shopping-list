@@ -1,0 +1,19 @@
+.ui-card {
+    width: 320px;
+    height: 180px;
+    background: #f8f8f8;
+    box-shadow: 0 0 8px -2px #bdc3c7;
+    border-radius: 6px;
+    margin: 0 12px 12px 0;
+}
+
+.card-title {
+    padding: 8px;
+    border-bottom: thin solid #bdc3c7;
+    background: #bdc3c7;
+    border-radius: 6px 6px 0 0;
+}
+
+.card-body {
+    padding: 8px;
+}
